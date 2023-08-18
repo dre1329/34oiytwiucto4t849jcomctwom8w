@@ -18,16 +18,21 @@
     font-size: 10px;
 }
 
-input
+input, select
 {
     font-size: 10px;
     width: 20%;
     height: 20px;
     border: solid rgb(255, 255, 255);
     border-radius: 5px;
-    padding: 5px;
-    background-color: #dddddd;
-    max-width: 500px;
+    padding: 2px;
+    background-color: #dddddd;;
+
+}
+
+.emailadd
+{
+    width: 300%;
 }
 
 p
